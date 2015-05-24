@@ -146,7 +146,7 @@ func main() {
 				Xp, Yp := prepare(op_poly[p])
 				if len(Xp) > 0 && len(Yp) > 0 {
 					canvas.TranslateF(0, float64((i+1)*step_y)) // translate to a new row
-					canvas.PolygonF(Xp, Yp, poly_style)
+					canvas.PolygonF(Xp, Yp, poly_style+";fill:grey;fill-opacity:0.5;")
 					canvas.Gend()
 				}
 			}

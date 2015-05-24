@@ -9,21 +9,21 @@
 <polygon points="24.000,7.000 28.000,8.072 30.928,11.000 32.000,15.000 30.928,19.000 28.000,21.928 24.000,23.000 20.000,21.928 17.072,19.000 16.000,15.000 17.072,11.000 20.000,8.072" style="fill:none;stroke:black;stroke-width:0.2;fill:blue;fill-opacity:0.5;"/>
 <text x="60" y="40" style="fill:black;font-size:1.3mm;">Union</text>
 <g transform="translate(0.000,25.000)">
-<polygon points="36.000,23.000 36.000,7.000 24.000,7.000 20.000,8.072 17.072,11.000 16.000,15.000 17.072,19.000 20.000,21.928 24.000,23.000" style="fill:none;stroke:black;stroke-width:0.2"/>
+<polygon points="36.000,23.000 36.000,7.000 24.000,7.000 20.000,8.072 17.072,11.000 16.000,15.000 17.072,19.000 20.000,21.928 24.000,23.000" style="fill:none;stroke:black;stroke-width:0.2;fill:grey;fill-opacity:0.5;"/>
 </g>
 <text x="60" y="65" style="fill:black;font-size:1.3mm;">Intersection</text>
 <g transform="translate(0.000,50.000)">
-<polygon points="30.928,19.000 28.000,21.928 24.000,23.000 24.000,7.000 28.000,8.072 30.928,11.000 32.000,15.000" style="fill:none;stroke:black;stroke-width:0.2"/>
+<polygon points="30.928,19.000 28.000,21.928 24.000,23.000 24.000,7.000 28.000,8.072 30.928,11.000 32.000,15.000" style="fill:none;stroke:black;stroke-width:0.2;fill:grey;fill-opacity:0.5;"/>
 </g>
 <text x="60" y="90" style="fill:black;font-size:1.3mm;">Difference</text>
 <g transform="translate(0.000,75.000)">
-<polygon points="24.000,23.000 28.000,21.928 30.928,19.000 32.000,15.000 30.928,11.000 28.000,8.072 24.000,7.000 36.000,7.000 36.000,23.000" style="fill:none;stroke:black;stroke-width:0.2"/>
+<polygon points="24.000,23.000 28.000,21.928 30.928,19.000 32.000,15.000 30.928,11.000 28.000,8.072 24.000,7.000 36.000,7.000 36.000,23.000" style="fill:none;stroke:black;stroke-width:0.2;fill:grey;fill-opacity:0.5;"/>
 </g>
 <text x="60" y="115" style="fill:black;font-size:1.3mm;">XOR</text>
 <g transform="translate(0.000,100.000)">
-<polygon points="24.000,23.000 24.000,7.000 20.000,8.072 17.072,11.000 16.000,15.000 17.072,19.000 20.000,21.928" style="fill:none;stroke:black;stroke-width:0.2"/>
+<polygon points="24.000,23.000 24.000,7.000 20.000,8.072 17.072,11.000 16.000,15.000 17.072,19.000 20.000,21.928" style="fill:none;stroke:black;stroke-width:0.2;fill:grey;fill-opacity:0.5;"/>
 </g>
 <g transform="translate(0.000,100.000)">
-<polygon points="24.000,23.000 28.000,21.928 30.928,19.000 32.000,15.000 30.928,11.000 28.000,8.072 24.000,7.000 36.000,7.000 36.000,23.000" style="fill:none;stroke:black;stroke-width:0.2"/>
+<polygon points="24.000,23.000 28.000,21.928 30.928,19.000 32.000,15.000 30.928,11.000 28.000,8.072 24.000,7.000 36.000,7.000 36.000,23.000" style="fill:none;stroke:black;stroke-width:0.2;fill:grey;fill-opacity:0.5;"/>
 </g>
 </svg>
